@@ -1031,5 +1031,3 @@ local function onHumanoidChanged()
         stopAnimation()
     end
 end
-
-humanoi
